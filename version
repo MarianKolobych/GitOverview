@@ -4,3 +4,5 @@
 =======
 ./bump-version.sh 1.2
 >>>>>>> developer
+
+./bump-version.sh 1.2.1
